@@ -14,7 +14,9 @@ import java.util.List;
  */
 public class Album {
     
-    //Hola, esto es un problema de GitHub
+    // Hola, esto es un problema de GitHub
+    
+    // Subido al OctoCat
     
     /**
      * @return the nombre
